@@ -1,16 +1,16 @@
 # 💫 Hi 👋, I'm Antara Deb
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**CS/Engineering student | Passionate about coding and technology || CS student 🚀 Passionate about coding, web development, and cloud technologies ||CS student from India 🚀 Passionate about coding **
 
 Email Me 👉 ✉️ **antaradeb984@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on:** learning web development and python,building small projects
+- 🌱 **I’m currently learning:** C++,C,Python,HTML,CSS,Git,GitHub
+- 👯 **I’m looking to collaborate on:** Web Dvelopment projects, Python scripts, small open-source projects
+- 🤔 **I’m looking for help with:Looking for collaboration on Python projects, web development, and open-source contributions
+- 💬 **Ask me about:** Looking for help with Python scripts, HTML/CSS projects, and web app development
+- 📫 **How to reach me:** antaradeb984@gmail.com
+- 😄 **Pronouns:** She/Her
+- ⚡ **Fun fact:** Coffee, code, and creativity ☕💻
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=antaradeb0045&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
